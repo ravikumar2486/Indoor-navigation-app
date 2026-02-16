@@ -31,7 +31,5 @@ indoor-outdoor-navigation-flutter/
 ├── pubspec.yaml
 └── README.md
 
----
+Architecture follows modular clean structure separating UI, business logic, and data layers for scalability.
 
-## 🛠 Installation
-...
